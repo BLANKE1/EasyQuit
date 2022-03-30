@@ -2,7 +2,7 @@
 using UIExpansionKit.API;
 using System.Diagnostics;
 
-[assembly: MelonInfo(typeof(KillGame.Main), "EasyQuit", "0.0.1", "BLANKE")]
+[assembly: MelonInfo(typeof(KillGame.Main), "EasyQuit", "1.0.0", "BLANKE")]
 [assembly: MelonGame("VRChat", "VRChat")]
 
 namespace KillGame
